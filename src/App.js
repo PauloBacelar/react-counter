@@ -4,7 +4,7 @@ import "./App.css";
 // Styles
 const counterStyles = {
   textAlign: "center",
-  marginBottom: 25
+  marginBottom: 25,
 };
 
 const containerStyles = {
